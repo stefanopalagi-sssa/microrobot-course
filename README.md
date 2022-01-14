@@ -16,6 +16,8 @@ This course will introduce the field of microscale robotics. The scientific and 
 
 ## Lectures
 
+Lectures description goes here
+
 ### Lecture 1
 
 ### Lecture 2
