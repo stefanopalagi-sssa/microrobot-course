@@ -24,27 +24,5 @@ While discussing how these challenges are addressed in microrobotics, we will to
 
 The course aims at introducing microrobotics to the students, while allowing them to explore and delve into the aspects that interest them the most.
 The lectures are intended to be interactive and will possibly include hands-on experiences and a small project.
-<!-- 
-## Lectures
 
-Lectures description goes here
-
-### Lecture 1
-
-### Lecture 2
-
-### Lecture 3
-
-### Lecture 4
-
-### Lecture 5
-
-### Lecture 6
-
-### Lecture 7
-
-### Lecture 8
-
-### Lecture 9
-
-### Lecture 10 -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanopalagi-sssa/microrobot-course-public/HEAD)
