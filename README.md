@@ -33,7 +33,7 @@ The course aims at introducing microrobotics, while allowing the students to exp
 The lectures will be interactive and include hands-on experiences and a small project.
 The students will thus practice the **development of a collaborative research project**, from _ideation_ and _planning_, to _execution_ and _reporting_.
 
-<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanopalagi-sssa/microrobot-course/HEAD) -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanopalagi-sssa/microrobot-course/HEAD)
 
 
 
