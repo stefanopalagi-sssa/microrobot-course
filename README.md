@@ -1,69 +1,107 @@
 # Microscale Robotics: from bioinspiration to medicine
+**PhD in BioRobotics**
 
-_Stefano Palagi_
+Academic Year 2022&ndash;23
 
-Material for classes of the Microscale Robotics course for the PhD in BioRobotics
+> hours: 20  
+> credits: 2<!-- commitment: 50h = 20h classes + 30h activities -->  
+> semester: 1
 
-hours: 20
-
-credits: 2 
-<!-- commitment: 50h = 20h classes + 30h activities -->
-
-semester: 2
-
+[_Stefano Palagi_](https://www.santannapisa.it/en/stefano-palagi)  
+[Microscale Robotics Laboratory](https://www.santannapisa.it/en/institute/biorobotics/microscale-robotics-laboratory)
 
 
-## **Abstract**
 
-**Microrobotics** is an emerging field of robotics that deals with the development of **(mobile) robots of sub-millimetre dimensions** (down to 1&nbsp;&mu;m), mainly intended for applications of **minimally-invasive medicine**.
+### **Abstract**
+
+**Microrobotics** is an emerging field that addresses the development of **(mobile) robots of microscopic size**  mainly intended for applications in **minimally-invasive medicine**.  
 This presents several scientific and technological challenges: 
 - what microrobots should look like?
 - how to design and build them?
 - how to actuate and make them move? 
+- how to power them? 
 - how to track and control them remotely?
 - how to make them perceive and respond to their environment?
-- how to power them? 
 - how to make them _intelligent_?
-<!-- 
-## &nbsp; -->
 
-While discussing how these challenges are addressed in microrobotics, we will touch on **bioinspired design**, **soft robotics** & **smart materials**, **micro-fabrication**, **medical robotics** & **medical imaging**, **robots' control** and **(physical) artificial intelligence**.
+While discussing approaches to tackle these challenges, we will touch on **bioinspired design**, **soft robotics** & **smart materials**, **micro-fabrication**, **medical robotics** & **medical imaging**, **robots' control** and **(physical) artificial intelligence**.
 
-The course aims at introducing microrobotics, while allowing the students to explore and delve into the aspects that interest them the most.
-The lectures will be interactive and include hands-on experiences and a small project.
-The students will thus practice the **development of a collaborative research project**, from _ideation_ and _planning_, to _execution_ and _reporting_.
+The course aims at introducing microrobotics, while encouraging you to explore and delve into the aspects that interest you the most.
+The classes will be interactive and include hands-on experiences and an actual research project.
+You will thus experience the **development of an ambitious interdisciplinary project**, from _ideation_ and _planning_, to _execution_ and _reporting_.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanopalagi-sssa/microrobot-course/HEAD)
+<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanopalagi-sssa/microrobot-course/HEAD) -->
 
 
 
-## Lessons
+## Learning objectives
 
-1. **Presentation & Introduction**  
-   (April 20, 2022)
-2. **Journal club: _Selected topics in microrobotics_**  
-   (April 27, 2022)
-3. **The challenges of microrobots #1: _Locomotion_**  
-   (May 4, 2022)
-4. **The challenges of microrobots #2: _Power & Control_**  
-   (May 11, 2022)
-5. **Lab visit: _Resources for microrobotics research_**  
-   (May 18, 2022)
-6. **Class project #1: _Ideating a (microrobotics) research project_**  
-   (May 25, 2022)
-7. **Class project #2: _Planning a (microrobotics) research project_**  
-   (June 1, 2022)
-8. **The challenges of microrobots #3: _Sensing_** + **Class project update #1**  
-   (June 8, 2022)
-9. **The challenges of microrobots #4: _Autonomy & Intelligence_** + **Class project update #2**  
-    (June 15, 2022)
-10. **The challenges of microrobots #5: _Medical applications_** + **Class project update #3**  
-    (June 22, 2022)
+By the end of the course you will be able to:
+
+* discuss the major challenges and approaches in microrobotics 
+* do a thorough literature research and enter a new research field
+* read, analyse, present, and discuss research papers critically
+* formulate a research idea and plan an ambitious project
+* carry out and thoroughly report on a research project
+* collaborate and cooperate in a multidisciplinary team
+
+
+
+## Topics
+
+1. Definition of microrobotics
+2. Bioinspired microrobots
+3. Microscale locomotion
+4. Fabrication of microrobots
+5. (Smart) Materials for microrobots
+6. Wireless Power & Control of microrobots
+7. Sensing, Autonomy & Intelligence in microrobotics
+8. Medical applications of microrobotics
+9. Research methods and tools
+10. Project planning, implementation, and reporting
+
+
+
+## Classes
+
+The classes will be held in _dual mode_ (both in person and online).
+However, in-person participation is recommended when possible.
+
+Preliminary schedule:
+
+1. **Presentation & Introduction to the course**  
+   (November 16, 2022, 2:30&ndash;4:30&nbsp;pm)
+2. **What are microrobots?**  
+   (November 23, 2022, 2:30&ndash;4:30&nbsp;pm)
+3. **The _science_ of microrobotics**  
+   (November 30, 2022, 3:30&ndash;5:30&nbsp;pm)
+4. **Bioinspiration & Locomotion** + **Fabrication & Materials**  
+   (December 7, 2022, 2:30&ndash;4:30&nbsp;pm)
+5. **Power & Control** + **Sensing, Autonomy & Intelligence**  
+   (December 14, 2022, 2:30&ndash;4:30&nbsp;pm)
+6. **Medical applications: case studies**  
+   (December 21, 2022, 2:30&ndash;4:30&nbsp;pm)
+7. **A microrobotics research idea**  
+   (January 11, 2023, 2:30&ndash;4:30&nbsp;pm)
+8. **Exploratory phase** + **Project planning**  
+   (January 18, 2023, 2:30&ndash;4:30&nbsp;pm)
+9. **Class project update #1**  
+   (January 25, 2023, 2:30&ndash;4:30&nbsp;pm)
+10. **Class project update #2**  
+   (February 1, 2023, 2:30&ndash;4:30&nbsp;pm)
+
+
 
 ## Exam
 
-### **Project review**  
-(June 29, 2022)
+The exam will focus on the class research project and will consist of:
 
-1. Final project presentation (_class_)
-2. Questions & Answers (_individual_)
+1. a written report (15/30 points, class-level evaluation)
+2. a presentation (9/30 points, individual-level evaluation)
+3. a discussion (6/30 points, individual-level evaluation)
+
+Evaluation criteria:
+
+* understanding of the state of the art (10/30 points)
+* thoroughness of methods and reporting (10/30 points)
+* level of contribution (10/30 points) 
