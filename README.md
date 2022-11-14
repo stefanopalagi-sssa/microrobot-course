@@ -70,25 +70,25 @@ However, in-person participation is recommended when possible.
 Preliminary schedule:
 
 1. **Presentation & Introduction to the course**  
-   (November 16, 2022, 2:30&ndash;4:30&nbsp;pm)
+   (November 16, 2022, 2:00&ndash;4:00&nbsp;pm)
 2. **What are microrobots?**  
-   (November 23, 2022, 2:30&ndash;4:30&nbsp;pm)
+   (November 23, 2022, 2:00&ndash;4:00&nbsp;pm)
 3. **The _science_ of microrobotics**  
-   (November 30, 2022, 3:30&ndash;5:30&nbsp;pm)
+   (November 30, 2022, 2:00&ndash;4:00&nbsp;pm)
 4. **Bioinspiration & Locomotion** + **Fabrication & Materials**  
-   (December 7, 2022, 2:30&ndash;4:30&nbsp;pm)
+   (December 7, 2022, 2:00&ndash;4:00&nbsp;pm)
 5. **Power & Control** + **Sensing, Autonomy & Intelligence**  
-   (December 14, 2022, 2:30&ndash;4:30&nbsp;pm)
+   (December 14, 2022, 2:00&ndash;4:00&nbsp;pm)
 6. **Medical applications: case studies**  
-   (December 21, 2022, 2:30&ndash;4:30&nbsp;pm)
+   (December 21, 2022, 2:00&ndash;4:00&nbsp;pm)
 7. **A microrobotics research idea**  
-   (January 11, 2023, 2:30&ndash;4:30&nbsp;pm)
+   (January 11, 2023, 2:00&ndash;4:00&nbsp;pm)
 8. **Exploratory phase** + **Project planning**  
-   (January 18, 2023, 2:30&ndash;4:30&nbsp;pm)
+   (January 18, 2023, 2:00&ndash;4:00&nbsp;pm)
 9. **Class project update #1**  
-   (January 25, 2023, 2:30&ndash;4:30&nbsp;pm)
+   (January 25, 2023, 2:00&ndash;4:00&nbsp;pm)
 10. **Class project update #2**  
-   (February 1, 2023, 2:30&ndash;4:30&nbsp;pm)
+   (February 1, 2023, 2:00&ndash;4:00&nbsp;pm)
 
 
 
