@@ -74,7 +74,7 @@ Preliminary schedule:
 2. **What are microrobots?**  
    (November 23, 2022, 2:00&ndash;4:00&nbsp;pm)
 3. **The _science_ of microrobotics**  
-   (November 30, 2022, 2:00&ndash;4:00&nbsp;pm)
+   (December 1, 2022, 2:00&ndash;4:00&nbsp;pm)
 4. **Bioinspiration & Locomotion** + **Fabrication & Materials**  
    (December 7, 2022, 2:00&ndash;4:00&nbsp;pm)
 5. **Power & Control** + **Sensing, Autonomy & Intelligence**  
